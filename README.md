@@ -11,7 +11,7 @@ The website is fully responsive and optimized for different screen sizes, from d
 
 ## Demo
 
-You can view a live demo of the website at https://kuznetsova-anastasiia.github.io/met-landing/.
+You can view a live demo of the website [HERE](https://kuznetsova-anastasiia.github.io/met-landing/).
 
 ## Techologies
  - HTML
